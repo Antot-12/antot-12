@@ -30,7 +30,12 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@BOMBAProductionA)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/antot__12/)
 
- 
+ ### Stats:
+
+<div>
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=Antot-12&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antot-12&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
+</div>
  
 
 <!--
