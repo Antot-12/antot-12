@@ -2,7 +2,7 @@
 
 [![Header](https://github.com/Antot-12/antot-12/blob/main/assets/header.png)](https://www.youtube.com/watch?v=xFMpwrP2cxw)
 
-##   Hi! I wish You a great day. 👋🏻 About me:  <br><br>  I`m beginner Java Developer and Youtuber 
+##   Hi! I wish You a great day. 👋🏻 About me:  <br><br>  I`m beginner Java/React Developer and Youtuber 😄
 
 # Languages & Tools:
  
@@ -29,7 +29,7 @@
 
 
 [![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anton-shyrko/)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@BOMBAProductionA)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/c/BOMBAProductionA)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/antot__12/)
 
  ### Stats:
