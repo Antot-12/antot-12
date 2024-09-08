@@ -1,7 +1,7 @@
 
 [![Header](https://github.com/Antot-12/antot-12/blob/main/assets/header.png)](https://www.youtube.com/watch?v=xFMpwrP2cxw)
 
-## Hi! I wish You a great day. 👋🏻 About me:  <br><br>  I`m beginner Java/React Developer and Youtuber 😄
+## Hi! I am happy to greet you on my account. 👋🏻 About me:  <br><br>  I`m junior Java/React Developer and Youtuber 😄
 
 # Languages & Tools:
  
