@@ -60,7 +60,8 @@
 
 
 
-
+ <br>
+ 
 
 
 ### Follow me:
@@ -69,6 +70,8 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/c/BOMBAProductionA)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/antot__12/)
 
+ <br>
+ 
 ### 🔥 Stats:
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
@@ -87,16 +90,18 @@
 
 
 
-
+ <br>
+ 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Antot-12&theme=onedark&no-bg=true&row=1&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Repositories,Commits,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-
+ <br>
+  <br>
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
+ <br>
+  <summary>📘 My Top Open Source Projects</summary>
+  <br>
   <!-- Repo info cards -->
   <p align="left">
     <a href="https://github.com/Antot-12/Password-Generator"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Antot-12&repo=Password-Generator&theme=tokyonight&bg_color=1A1B27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" alt="Password-Generator"></a>
@@ -112,6 +117,7 @@
 
   <a href="https://github.com/Antot-12?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1A1B27?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
+
 
 
 
