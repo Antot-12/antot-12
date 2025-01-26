@@ -81,7 +81,7 @@
 ](https://streak-stats.demolab.com/?user=Antot-12&theme=tokyonight&hide_border=true)
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Antot-12&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Antot_12&theme=tokyonight&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
 
 
 </div>
