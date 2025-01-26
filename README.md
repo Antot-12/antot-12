@@ -79,7 +79,14 @@
 
 [<a href="https://git.io/streak-stats"><img src="[https://streak-stats.demolab.com?user=DenverCoder1](https://streak-stats.demolab.com/?user=Antot-12&theme=tokyonight&hide_border=true)"/></a>
 ](https://streak-stats.demolab.com/?user=Antot-12&theme=tokyonight&hide_border=true)
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Antot-12&theme=tokyonight&hide_border=true)
+
+
 </div>
+
+
 
 
 ### 🏆 GitHub Trophies
