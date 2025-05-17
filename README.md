@@ -79,21 +79,21 @@
  
 ### 🔥 Stats:
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Antot-12&theme=tokyonight&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&line_height=21&hide=contribs">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antot-12&theme=tokyonight&&hide_title=true&hide_border=true&layout=compact&langs_count=12">
-<!--
-  <img height="135px" src="https://stats-seven-rho.vercel.app?user=Antot-12&theme=tokyonight&hide_border=true&border_radius=4.7&mode=weekly">
-!-->
-
 <br>
 
- 
-[![GitHub Streak](https://stats-seven-rho.vercel.app?user=Antot-12&theme=tokyonight&hide_border=true&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
-
+<div align="center">
+  <img 
+    src="https://stats-seven-rho.vercel.app?user=Antot-12&theme=tokyonight&hide_border=true&border_radius=4.7&mode=weekly" 
+    width="620" 
+    style="vertical-align: middle; margin-bottom: -90px;" 
+    alt="GitHub Streak"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antot-12&langs_count=10&layout=compact&theme=tokyonight&hide_border=true" 
+    width="340" 
+    alt="Top Languages"
+  />
 </div>
-
-
 
  <br>
  
