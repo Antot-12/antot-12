@@ -57,6 +57,7 @@
 ![React](https://img.shields.io/badge/react-090909?style=for-the-badge&logo=react&logoColor=#4169E1)
 ![React Native](https://img.shields.io/badge/react_native-090909?style=for-the-badge&logo=react&logoColor=#61DAFB)
 ![Spring Boot](https://img.shields.io/badge/spring_boot-090909?style=for-the-badge&logo=springboot&logoColor=#6DB33F)
+![Next.js](https://img.shields.io/badge/next.js-090909?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/node.js-090909?style=for-the-badge&logo=nodedotjs&logoColor=#339933)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-090909?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4)
 ![HTML5](https://img.shields.io/badge/html_5-090909?style=for-the-badge&logo=html5&logoColor=#E34F26)
