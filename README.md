@@ -18,7 +18,7 @@
 !-->
 
 
-## Hi! I'm a **junior Java/React Developer** passionate about creating innovative solutions. 
+## Hi! I'm a **junior Java/React/TS Developer** passionate about creating innovative solutions. 
 
 <br>
 
