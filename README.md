@@ -114,7 +114,8 @@
   <summary>📘 My Top Open Source Projects</summary>
   <br>
   <!-- Repo info cards -->
-  <p align="left">
+ 
+  <!-- <p align="left">
     <a href="https://github.com/Antot-12/Password-Generator"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Antot-12&repo=Password-Generator&theme=tokyonight&bg_color=1A1B27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" alt="Password-Generator"></a>
     <a href="https://github.com/Antot-12/Coin-Flip-Simulator"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Antot-12&repo=Coin-Flip-Simulator&theme=tokyonight&bg_color=1A1B27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" alt="Coin-Flip-Simulator"></a>
     <a href="https://github.com/Antot-12/Emoji-Translator"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Antot-12&repo=Emoji-Translator&theme=tokyonight&bg_color=1A1B27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" alt="Emoji-Translator"></a>
@@ -124,7 +125,47 @@
     <a href="https://github.com/Antot-12/MadPan-minecraft-hotel-plugin-1.12.2"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Antot-12&repo=MadPan-minecraft-hotel-plugin-1.12.2&theme=tokyonight&bg_color=1A1B27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" alt="MadPan-minecraft-hotel-plugin-1.12.2"></a>
     <a href="https://github.com/Antot-12/Azur-Lane-Site"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Antot-12&repo=Azur-Lane-Site&theme=tokyonight&bg_color=1A1B27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" alt="Azur-Lane-Site"></a>
     <a href="https://github.com/Antot-12/Telegram-Bot-Java"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Antot-12&repo=Telegram-Bot-Java&theme=tokyonight&bg_color=1A1B27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" alt="Telegram-Bot-Java"></a>
-  </p>
+  </p> -->
+
+<p align="left">
+  <a href="https://github.com/Antot-12/Password-Generator">
+    <img width="278" src="https://github-readme-stats-nine-mu-67.vercel.app/api/pin/?username=Antot-12&repo=Password-Generator&theme=tokyonight&bg_color=1A1B27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" alt="Password-Generator">
+  </a>
+
+  <a href="https://github.com/Antot-12/Coin-Flip-Simulator">
+    <img width="278" src="https://github-readme-stats-nine-mu-67.vercel.app/api/pin/?username=Antot-12&repo=Coin-Flip-Simulator&theme=tokyonight&bg_color=1A1B27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" alt="Coin-Flip-Simulator">
+  </a>
+
+  <a href="https://github.com/Antot-12/Emoji-Translator">
+    <img width="278" src="https://github-readme-stats-nine-mu-67.vercel.app/api/pin/?username=Antot-12&repo=Emoji-Translator&theme=tokyonight&bg_color=1A1B27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" alt="Emoji-Translator">
+  </a>
+
+  <a href="https://github.com/Antot-12/Totally-Not-A-Malware">
+    <img width="278" src="https://github-readme-stats-nine-mu-67.vercel.app/api/pin/?username=Antot-12&repo=Totally-Not-A-Malware&theme=tokyonight&bg_color=1A1B27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" alt="Totally-Not-A-Malware">
+  </a>
+
+  <a href="https://github.com/Antot-12/The-Greatest-Anime-Viewer-App">
+    <img width="278" src="https://github-readme-stats-nine-mu-67.vercel.app/api/pin/?username=Antot-12&repo=The-Greatest-Anime-Viewer-App&theme=tokyonight&bg_color=1A1B27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" alt="The-Greatest-Anime-Viewer-App">
+  </a>
+
+  <a href="https://github.com/Antot-12/Pack-React-Site">
+    <img width="278" src="https://github-readme-stats-nine-mu-67.vercel.app/api/pin/?username=Antot-12&repo=Pack-React-Site&theme=tokyonight&bg_color=1A1B27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" alt="Pack-React-Site">
+  </a>
+
+  <a href="https://github.com/Antot-12/MadPan-minecraft-hotel-plugin-1.12.2">
+    <img width="278" src="https://github-readme-stats-nine-mu-67.vercel.app/api/pin/?username=Antot-12&repo=MadPan-minecraft-hotel-plugin-1.12.2&theme=tokyonight&bg_color=1A1B27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" alt="MadPan-minecraft-hotel-plugin-1.12.2">
+  </a>
+
+  <a href="https://github.com/Antot-12/Azur-Lane-Site">
+    <img width="278" src="https://github-readme-stats-nine-mu-67.vercel.app/api/pin/?username=Antot-12&repo=Azur-Lane-Site&theme=tokyonight&bg_color=1A1B27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" alt="Azur-Lane-Site">
+  </a>
+
+  <a href="https://github.com/Antot-12/Telegram-Bot-Java">
+    <img width="278" src="https://github-readme-stats-nine-mu-67.vercel.app/api/pin/?username=Antot-12&repo=Telegram-Bot-Java&theme=tokyonight&bg_color=1A1B27&title_color=70a5fd&hide_border=true&icon_color=bf91f3&show_icons=false" alt="Telegram-Bot-Java">
+  </a>
+</p>
+
+
 
   <a href="https://github.com/Antot-12?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1A1B27?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
