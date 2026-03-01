@@ -21,7 +21,7 @@
 !-->
 
 
-## Hi! I'm a **junior Java/React/TS Developer** passionate about creating innovative solutions. 
+## Hi! I'm a **junior Java/React/TS Developer** — I code, I learn, I ship (sometimes).
 
 <br>
 
@@ -136,7 +136,6 @@
  <br>
   <br>
 <details open> 
- <br>
   <summary>📘 My Top Open Source Projects</summary>
   <br>
   <!-- Repo info cards -->
