@@ -23,9 +23,7 @@
 
 ## Hi! I'm a **junior Java/React/TS Developer** — I code, I learn, I ship (sometimes).
 
-<br>
 
- 
 # Languages & Tools:
 
 
@@ -72,16 +70,12 @@
 ![Raspberry Pi](https://img.shields.io/badge/raspberry_pi-090909?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
 
 
-
-
-
 ### Follow me:
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anton-shyrko/)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/c/BOMBAProductionA)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/antot__12/)
 
- <br>
  
 ### 🔥 Stats:
 
@@ -120,8 +114,6 @@
 </div>
 
 
-
- <br>
  
 ### 🏆 GitHub Trophies
 
