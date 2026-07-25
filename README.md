@@ -52,22 +52,27 @@
 
 
 
+
 ![C](https://img.shields.io/badge/_C-090909?style=for-the-badge&logo=C&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/_C++-090909?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/_java-090909?style=for-the-badge&logo=java&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=#3776AB)
+![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
 ![JavaScript (JS)](https://img.shields.io/badge/javascript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/react-090909?style=for-the-badge&logo=react&logoColor=#4169E1)
-![React Native](https://img.shields.io/badge/react_native-090909?style=for-the-badge&logo=react&logoColor=#61DAFB)
-![Spring Boot](https://img.shields.io/badge/spring_boot-090909?style=for-the-badge&logo=springboot&logoColor=#6DB33F)
+![TypeScript](https://img.shields.io/badge/typescript-090909?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/react-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/react_native-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/spring_boot-090909?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 ![Next.js](https://img.shields.io/badge/next.js-090909?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/node.js-090909?style=for-the-badge&logo=nodedotjs&logoColor=#339933)
-![Tailwind CSS](https://img.shields.io/badge/tailwind_css-090909?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4)
-![HTML5](https://img.shields.io/badge/html_5-090909?style=for-the-badge&logo=html5&logoColor=#E34F26)
+![Node.js](https://img.shields.io/badge/node.js-090909?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![PostgreSQL](https://img.shields.io/badge/postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Tailwind CSS](https://img.shields.io/badge/tailwind_css-090909?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/html_5-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/css_3-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
-![GIT](https://img.shields.io/badge/git-090909?style=for-the-badge&logo=git&logoColor=#F05032)
+![GIT](https://img.shields.io/badge/git-090909?style=for-the-badge&logo=git&logoColor=F05032)
 ![Adobe](https://img.shields.io/badge/adobe-090909?style=for-the-badge&logo=adobe&logoColor=FF0000)
 ![Raspberry Pi](https://img.shields.io/badge/raspberry_pi-090909?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
+
+
 
 
 ### Follow me:
